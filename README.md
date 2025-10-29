@@ -43,7 +43,7 @@ It promotes community-driven giving by making the donation process simple, quick
 - **Framework:** Flutter  
 - **Language:** Dart  
 - **Design:** Material UI  
-- **Database (Optional):** Firebase / Local List  
+- **Database :** Firebase  
 - **IDE Used:** Visual Studio Code  
 
 ---
